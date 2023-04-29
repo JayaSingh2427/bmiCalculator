@@ -1,0 +1,3 @@
+# bmiCalculator
+A website created using Node.js, Express, HTML, CSS, and JavaScript that allows users to calculate their BMI and perform basic arithmetic calculations. 
+This project features an easy-to-use interface, responsive design, and custom JavaScript logic to handle user input and display results. The use of Node.js and Express allows for efficient server-side processing and a smooth user experience. Created as part of the Udemy course 'The Complete 2021 Web Development Bootcamp' by Angela Yu, this project is a great way to learn about building interactive web applications with Node.js.
